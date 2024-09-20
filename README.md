@@ -10,7 +10,7 @@ Primarily consists of Flask for backend and some HTML for a basic frontend inter
 pip install -r requirements.txt
 </code>
 
-## environment variable
+## Environment variable
 Add a .env file with 
 <code>
 FLASK_APP=main.py
