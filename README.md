@@ -6,7 +6,9 @@ To begin with your first project, download the code play around with files main.
 ## Topic
 Primarily consists of Flask for backend and some HTML for a basic frontend interface. 
 ## Installation
+<code>
 pip install -r requirements.txt
+</code>
 ## environment variable
 Add a .env file with 
 <code>
